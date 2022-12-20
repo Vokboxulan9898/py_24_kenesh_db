@@ -2,7 +2,7 @@
 
 ## Setting up project
 
-git clone ...
+git clone git@github.com:TimaDootaliev/py_24_kenesh_db.git
 
 python3 -m venv venv
 
